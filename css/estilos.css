@@ -2,3 +2,7 @@ body {
 	text-align: center;
 	font-family: "Arial";
 }
+
+#contenedor {
+	border: 1px;
+}
