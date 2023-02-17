@@ -6,3 +6,7 @@ body {
 #contenedor {
 	border: 1px;
 }
+
+.header {
+  background: "#00aaaa";
+}
